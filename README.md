@@ -45,4 +45,10 @@
 ## 🎯 Objetivo
 
   Consolidar minha transição para a área de tecnologia, atuando como desenvolvedor backend e evoluindo para soluções que integrem dados, automação e inteligência artificial.
-  
+
+
+  <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruanrafaelsansilva/ruanrafaelsansilva/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruanrafaelsansilva/ruanrafaelsansilva/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ruanrafaelsansilva/ruanrafaelsansilva/output/github-contribution-grid-snake.svg">
+</picture>

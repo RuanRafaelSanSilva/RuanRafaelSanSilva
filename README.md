@@ -1,6 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=247FA7&width=435&lines=Welcome+to+my+profile" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=247FA7&width=500&height=70&lines=%E2%98%85+Welcome+to+my+profile+%E2%98%85)](https://git.io/typing-svg)
 
 
+
+<img width="4884" height="1315" alt="Image" src="https://github.com/user-attachments/assets/3157ff63-3832-4507-bbe8-8010996bb266" />
 
 ##
 
@@ -19,6 +21,7 @@ Busco aplicar tecnologia para resolver problemas reais de negócio, unindo minha
   <a href="https://www.linkedin.com/in/ruan-sansilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+
 ##
 
 <h3 align="left">My Stack</h3>
@@ -44,6 +47,8 @@ Busco aplicar tecnologia para resolver problemas reais de negócio, unindo minha
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="25" alt="sqlite logo" />
   <img width="8" />
+
+##
 
 
   <picture align="center">

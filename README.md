@@ -2,7 +2,6 @@
 
 
 
-
 ##
 
 <P align="center">Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso pós-graduação em Ciência de Dados e Inteligência Artificial.
@@ -13,8 +12,13 @@ Busco aplicar tecnologia para resolver problemas reais de negócio, unindo minha
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=247FA7FF&color:FFF)](mailto:ruanrafael2012@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=247FA7FF&color:FFF)](https://www.linkedin.com/in/ruan-sansilva/)
+<div>
+  
+  <a href = "mailto:ruanrafael2012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/ruanrafael__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ruan-sansilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
 ##
 
 <h3 align="left">My Stack</h3>

@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=247FA7&width=500&height=70&lines=%E2%98%85+Welcome+to+my+profile+%E2%98%85)](https://git.io/typing-svg)
 
 
-
-<img width="4884" height="1315" alt="Image" src="https://github.com/user-attachments/assets/3157ff63-3832-4507-bbe8-8010996bb266" />
+<img width="2172" height="724" alt="Image" src="https://github.com/user-attachments/assets/480381ac-4fe1-4df0-94a7-1df188b31725" />
 
 ##
 

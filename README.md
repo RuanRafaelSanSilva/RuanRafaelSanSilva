@@ -1,7 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=247FA7&width=500&height=70&lines=%E2%98%85+Welcome+to+my+profile+%E2%98%85)](https://git.io/typing-svg)
 
 
-<img src="./assets/banner.png" alt="Banner Ruan Rafael" width="100%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RuanRafaelSanSilva/RuanRafaelSanSilva/main/banner.png" alt="Banner Ruan Rafael" width="100%">
+</p>
 
 ##
 
